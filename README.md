@@ -16,7 +16,7 @@ b. Plan Infrastructure Changes:
 
 c. Apply Configuration:
 
-    terraform apply -auto-approve
+    terraform apply 
 
 d. Check Docker:
 
